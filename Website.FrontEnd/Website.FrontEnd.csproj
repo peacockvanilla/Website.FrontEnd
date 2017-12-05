@@ -561,6 +561,7 @@
     <Content Include="images\unsplash\rygidtavhkq-dave-lastovskiy.jpg" />
     <Content Include="images\unsplash\sunset.jpg" />
     <Content Include="images\unsplash\xg157kdwbpq-rob-bye.jpg" />
+    <Content Include="HomePage.html" />
     <Content Include="index-app.html" />
     <Content Include="index-dark.html" />
     <Content Include="index-event.html" />
